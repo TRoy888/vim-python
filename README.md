@@ -4,12 +4,12 @@ vim-python
 vim-python is my personal python vim environment used for devleoping python codes. REF:http://sontek.net/blog/detail/turning-vim-into-a-modern-python-ide#code-folding
 
 .vimrc
-<textarea rows="20" cols="50" disabled readonly style = "resize: none;">
-" turns filetype detection off
-" before running pathogen
-" because it is supposed to break
-" things
-filetype off
+
+" turns filetype detection off<br>
+" before running pathogen<br>
+" because it is supposed to break<br>
+" things<br>
+filetype off<br>
 
 " the proper way to run pathogen
 " and index your plugins documentation
