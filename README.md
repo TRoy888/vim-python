@@ -5,11 +5,12 @@ vim-python is my personal python vim environment used for devleoping python code
 
 .vimrc
 
-" turns filetype detection off<br>
-" before running pathogen<br>
-" because it is supposed to break<br>
-" things<br>
-filetype off<br>
+<pre>
+" turns filetype detection off
+" before running pathogen
+" because it is supposed to break
+" things
+filetype off
 
 " the proper way to run pathogen
 " and index your plugins documentation
@@ -24,4 +25,4 @@ syntax on
 
 " your custom mapping
 nnoremap <leader>v <Plug>TaskList
-</textarea>
+</pre>
