@@ -24,4 +24,3 @@ syntax on
 
 " your custom mapping
 nnoremap <leader>v <Plug>TaskList
-</pre>
