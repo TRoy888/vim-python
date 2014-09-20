@@ -20,8 +20,8 @@ execute pathogen#helptags()
 " plugins, indent scripts and syntax
 " highlighting on
 filetype plugin indent on
-syntax on
-
-" your custom mapping
+syntax on 
+ 
+" your custom mapping A
 nnoremap <leader>v <Plug>TaskList
 </pre> 
