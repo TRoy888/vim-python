@@ -22,6 +22,7 @@ execute pathogen#helptags()
 filetype plugin indent on
 
 " your custom mapping A A A
- 
+
 nnoremap <leader>v <Plug>TaskList
 </pre>
+adaf
