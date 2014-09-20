@@ -22,6 +22,6 @@ execute pathogen#helptags()
 filetype plugin indent on
 syntax on 
  
-" your custom mapping A
+" your custom mapping A A
 nnoremap <leader>v <Plug>TaskList
 </pre> 
